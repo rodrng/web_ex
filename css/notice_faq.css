@@ -1,0 +1,64 @@
+
+        #main_page{
+            width:1000px;
+            margin:0 auto;
+        }
+
+        #customer {
+            float:left;
+            width:300px;
+            height:130px;
+            margin-left:20px;
+            margin-top:20px;
+        }
+
+        #notice {
+            float:left;
+            width:300px;
+            height:130px;
+            margin-left:35px;
+            margin-top:20px;
+        }
+
+        #faq {
+            float:left;
+            width:300px;
+            height:130px;
+            margin-left:35px;
+            margin-top:20px;
+        }
+
+        #customer .title {
+            float:left;
+        }
+
+        #customer .more {
+            float:right;
+        }
+
+        #notice .title {
+            float:left;
+        }
+
+        #notice .more {
+            float:right;
+        }
+
+        #notice .subject{
+            float:left;
+            margin-top:5px;
+        }
+
+        #notice .date{
+            float:right;
+            margin-top:5px;
+        }
+
+        #notice ul{
+            margin-top:10px;
+        }
+
+        .line {
+        border-top:solid 1px #cccccc;
+        margin-top:25px;
+        }

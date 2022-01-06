@@ -1,0 +1,52 @@
+        #pooter_page {
+            width:1000px;
+            margin:0 auto;
+        }
+        footer {
+            padding:20px 0 0 15px;
+            border-top:solid 3px #06b5b8;
+            color:#666666;
+        }
+
+        footer #company {
+            float:left;
+        }
+
+        footer #site_link {
+            float:right;
+        }
+
+        footer #footer_menu li {
+            margin-top:5px;
+        }
+
+        footer #company_info {
+            margin-top:20px;
+        }
+
+        footer #compny_info li {
+            margin-top:2px;
+        }
+
+        footer #copyright {
+            margin-top:10px;
+            font-size:11px;
+            color:#888888;
+        }
+
+        footer #site_link h3 {
+            font-size:16px;
+            color:#06b5b8;
+        }
+
+        footer #site_link select {
+        margin:5px 0 0 50px;
+        width:100px;
+        height:18px;
+        font-size:11px;
+        }
+
+        footer #icons {
+            margin-top:5px;
+            text-align:right;
+        }

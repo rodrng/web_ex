@@ -1,0 +1,13 @@
+        #main_page{
+            width:1000px;
+            margin:0 auto;
+        }
+
+        #banner li{
+            display:inline;
+            margin-left:32px;
+        }
+
+        #banner{
+            background-color:#00a8ab;
+        }
